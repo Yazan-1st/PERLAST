@@ -37,6 +37,7 @@ NOTE:
 
 Please, read the Help section in the game when you play for more information.
 
+![image](https://user-images.githubusercontent.com/121691614/210136486-bea56a61-9082-40c4-9b88-7b8379381b55.png)
 ![image](https://user-images.githubusercontent.com/121691614/210136298-ad8087e9-a420-4a3d-909f-3bd0e7282884.png)
 ![image](https://user-images.githubusercontent.com/121691614/210136324-9a131b02-67cf-4fa3-8441-5e3b20d12b7c.png)
 ![image](https://user-images.githubusercontent.com/121691614/210136327-310e5b84-58bc-45cb-82b9-844478714d74.png)
